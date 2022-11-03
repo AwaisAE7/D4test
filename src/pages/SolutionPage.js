@@ -1,6 +1,6 @@
 import React from 'react';
 
-function Newsletter() {
+function SolutionPage() {
   return (
     <section className="relative">
       <div className="relative max-w-6xl mx-auto px-4 sm:px-6 mb-40">
@@ -46,4 +46,4 @@ function Newsletter() {
   );
 }
 
-export default Newsletter;
+export default SolutionPage;

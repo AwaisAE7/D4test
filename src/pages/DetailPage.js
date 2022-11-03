@@ -1,5 +1,5 @@
 import React from 'react';
-function Testimonials() {
+function DetailPage() {
   return (
     <section className="relative bg-gray-50">
       <div className="max-w-6xl mx-auto px-4 sm:px-6">
@@ -84,4 +84,4 @@ function Testimonials() {
   );
 }
 
-export default Testimonials;
+export default DetailPage;

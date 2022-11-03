@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React from 'react';
 const myStyle = {
   backgroundImage:
     "url('https://res.cloudinary.com/jscore/image/upload/v1667490848/Group_14464_rrkxkw.png')",
@@ -8,7 +8,7 @@ const myStyle = {
   backgroundSize: 'cover',
   backgroundRepeat: 'no-repeat',
 };
-function Banner() {
+function QuestionPage() {
 
   return (
     <section className="relative" >
@@ -26,4 +26,4 @@ function Banner() {
   );
 }
 
-export default Banner;
+export default QuestionPage;

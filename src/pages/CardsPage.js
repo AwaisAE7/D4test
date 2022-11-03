@@ -1,6 +1,6 @@
 import React from 'react';
 
-function FeaturesBlocks() {
+function CardsPage() {
   const cardBackground1 = {
     backgroundImage:
       "url('https://res.cloudinary.com/jscore/image/upload/v1667483170/Mask_Group_45_qrpfoc.png')",
@@ -62,4 +62,4 @@ function FeaturesBlocks() {
   );
 }
 
-export default FeaturesBlocks;
+export default CardsPage;

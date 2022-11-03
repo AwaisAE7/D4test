@@ -1,7 +1,7 @@
 import React, { useState, useRef, useEffect } from 'react';
 import Transition from '../utils/Transition';
 
-function Features() {
+function SearchEnginePage() {
   return (
     <section className="relative">
       <div className="absolute inset-0 bg-gray-100 pointer-events-none mb-4" aria-hidden="true"></div>
@@ -62,4 +62,4 @@ function Features() {
   );
 }
 
-export default Features;
+export default SearchEnginePage;
